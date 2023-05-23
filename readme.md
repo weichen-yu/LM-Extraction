@@ -28,9 +28,8 @@ python3 baseline_method.py --_DATASET_DIR yours  _NUM_TRIALS 1
 ```
 
 
-
 ## Questions
-If there are any questions, feel free to contact Yu at weichen.yu@cripac.ia.ac.cn.
+If there are any questions, feel free to contact us at weichen.yu@cripac.ia.ac.cn.
 
 ## Acknowledgement
 
