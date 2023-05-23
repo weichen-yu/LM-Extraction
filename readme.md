@@ -1,5 +1,5 @@
 # Bag of Tricks for Training Data Extraction from Language Models
-The work is published in ICML2023, [Paper](https://arxiv.org/abs/2302.04460).
+This work is published in ICML 2023, [Paper](https://arxiv.org/abs/2302.04460).
 
 ## Brief Introduction
 The overall evaluation of the methods are as follows.
