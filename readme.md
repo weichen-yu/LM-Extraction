@@ -3,7 +3,7 @@ The work is published in ICML2023, [Paper](https://arxiv.org/abs/2302.04460).
 
 ## Brief Introduction
 The overall evaluation of the methods are as follows.
-<div align="center"><img src="./assets/model_intro_6.pdf" width = "620" alt="overall" /></div>
+<div align="center"><img src="./assets/overall.png" width = "620" alt="overall" /></div>
 
 And we recommend the following hyperparameters provided by autotuning.
 |Hyperparameter | Top-k |  Nucleus| Typical-p | Temperature | Repetition Penalty|
