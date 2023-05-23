@@ -1,6 +1,14 @@
 # Bag of Tricks for Training Data Extraction from Language Models
 The work is published in ICML2023, [Paper](https://arxiv.org/abs/2302.04460).
 
+## Brief Introduction
+The overall evaluation of the methods are as follows.
+<div align="center"><img src="./assets/model_intro_6.pdf" width = "620" alt="overall" /></div>
+
+And we recommend the following hyperparameters provided by autotuning.
+|Hyperparameter | Top-k |  Nucleus| Typical-p | Temperature | Repetition Penalty|
+|---|:---:|:---:|:---:|:---:|:---:|
+|Value | 24 | 0.8 | 0.9| 0.58| 1.04 |
 ## Requirements
 
 Install the required packages by
@@ -18,6 +26,8 @@ Run the corresponding method code by
 ```
 python3 baseline_method.py --_DATASET_DIR yours  _NUM_TRIALS 1 
 ```
+
+
 
 ## Questions
 If there are any questions, feel free to contact Yu at weichen.yu@cripac.ia.ac.cn.
